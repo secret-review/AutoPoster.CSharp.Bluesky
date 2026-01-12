@@ -1,0 +1,17 @@
+# .NET ビルド成果物
+bin/
+obj/
+
+# IDE / Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+
+# 機密情報を含む設定ファイル
+appsettings.vps.json
+appsettings.Local.json
+
+# OS 依存
+.DS_Store
+Thumbs.db
